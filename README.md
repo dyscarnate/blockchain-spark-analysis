@@ -14,8 +14,8 @@
 
 ```
 .
-├── block_analysis.ipynb               # Jupyter-тетрадь с анализом данных
-└── get_ethereum_transaction.py  # DAG-файл для Airflow
+├── block_analysis.ipynb         # Jupyter-ноутбук с анализом данных
+└── get_ethereum_transaction.py  # DAG для Airflow
 ```
 
 ## 🚀 Как пользоваться
