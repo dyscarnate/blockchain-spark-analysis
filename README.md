@@ -14,7 +14,7 @@
 
 ```
 .
-├── analysis.ipynb               # Jupyter-тетрадь с анализом данных
+├── block_analysis.ipynb               # Jupyter-тетрадь с анализом данных
 └── get_ethereum_transaction.py  # DAG-файл для Airflow
 ```
 
@@ -27,7 +27,7 @@
    - Apache Spark (и PySpark)
    - HDFS (локально или подключён кластер)
 2. Загрузите данные в HDFS (например, в формате Parquet).
-3. Откройте `analysis.ipynb` и пошагово выполните ячейки.
+3. Откройте `block_analysis.ipynb` и пошагово выполните ячейки.
 
 ### DAG для Airflow
 
